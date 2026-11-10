@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+ENV
+node_modules
+target/*
+!target/portfolio-0.0.1-SNAPSHOT.jar
+tmp
+.gradle
+.idea
+.vscode
+*.log
